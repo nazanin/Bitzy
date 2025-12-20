@@ -1,6 +1,6 @@
 # Bitzy
 An open-source pixel based font.
-
+<img src="https://framerusercontent.com/images/NyAJNAbssz47S0GoRQJAjdFa0Ps.png?scale-down-to=2048&lossless=1&width=4000&height=2353"></img>
 
 This is my first attempt to create and compile a font.<br>
 I have used <a href="https://www.calligraphr.com/">calligraphr</a> and <a href="https://fontforge.org/">FontForge</a>.<br>
